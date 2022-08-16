@@ -1,5 +1,6 @@
 # Review: Variables Lab
 
+
 ## Learning Goals
 
 - Practice using `const` and `let` to declare variables in JavaScript
